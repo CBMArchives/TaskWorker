@@ -593,7 +593,7 @@ Public Class task_srvc_main
                                         logFileHDR.Close()
                                     End If
                                 Case "TXT"
-                                    fileExt = ".log"
+                                    fileExt = ".txt"
                                 Case Else
                                     fileExt = ".log"
                             End Select
