@@ -1,0 +1,14 @@
+c:\users\richard\documents\visual studio 2010\Projects\RunProcedureManager\RunProcedureManager\obj\Debug\ResolveAssemblyReference.cache
+c:\users\richard\documents\visual studio 2010\Projects\RunProcedureManager\RunProcedureManager\bin\RunProcedureManager.dll
+c:\users\richard\documents\visual studio 2010\Projects\RunProcedureManager\RunProcedureManager\bin\RunProcedureManager.pdb
+c:\users\richard\documents\visual studio 2010\Projects\RunProcedureManager\RunProcedureManager\bin\EntityFramework.dll
+c:\users\richard\documents\visual studio 2010\Projects\RunProcedureManager\RunProcedureManager\bin\EntityFramework.xml
+c:\users\richard\documents\visual studio 2010\Projects\RunProcedureManager\RunProcedureManager\obj\Debug\RunProcedureManager.dll
+c:\users\richard\documents\visual studio 2010\Projects\RunProcedureManager\RunProcedureManager\obj\Debug\RunProcedureManager.pdb
+C:\Users\Public\Documents\Visual Studio 2010\Projects\RunProcedureManager\RunProcedureManager\bin\RunProcedureManager.dll
+C:\Users\Public\Documents\Visual Studio 2010\Projects\RunProcedureManager\RunProcedureManager\bin\RunProcedureManager.pdb
+C:\Users\Public\Documents\Visual Studio 2010\Projects\RunProcedureManager\RunProcedureManager\bin\EntityFramework.dll
+C:\Users\Public\Documents\Visual Studio 2010\Projects\RunProcedureManager\RunProcedureManager\bin\EntityFramework.xml
+C:\Users\Public\Documents\Visual Studio 2010\Projects\RunProcedureManager\RunProcedureManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\Documents\Visual Studio 2010\Projects\RunProcedureManager\RunProcedureManager\obj\Debug\RunProcedureManager.dll
+C:\Users\Public\Documents\Visual Studio 2010\Projects\RunProcedureManager\RunProcedureManager\obj\Debug\RunProcedureManager.pdb

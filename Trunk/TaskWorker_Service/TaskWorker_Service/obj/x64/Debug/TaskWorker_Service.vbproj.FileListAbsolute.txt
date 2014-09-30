@@ -1,0 +1,16 @@
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\x64\Debug\TaskWorker_Service.exe.config
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\x64\Debug\banner.txt
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\x64\Debug\TaskWorker_Service.exe
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\x64\Debug\TaskWorker_Service.pdb
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\x64\Debug\TaskWorker_Service.xml
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\x64\Debug\TaskWorker_BLL.dll
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\x64\Debug\TaskWorker_BLL.pdb
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\x64\Debug\TaskWorker_BLL.xml
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x64\Debug\TaskWorker_Service.vbprojResolveAssemblyReference.cache
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x64\Debug\TaskWorker_Service.frmMain.resources
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x64\Debug\TaskWorker_Service.Resources.resources
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x64\Debug\TaskWorker_Service.ProjectInstaller.resources
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x64\Debug\TaskWorker_Service.vbproj.GenerateResource.Cache
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x64\Debug\TaskWorker_Service.exe
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x64\Debug\TaskWorker_Service.xml
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x64\Debug\TaskWorker_Service.pdb

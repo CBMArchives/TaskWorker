@@ -1,0 +1,71 @@
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\TaskWorker_TestAssembly\bin\Debug\TaskWorker_TestAssembly.dll
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\TaskWorker_TestAssembly\bin\Debug\TaskWorker_TestAssembly.pdb
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\TaskWorker_TestAssembly\bin\Debug\TaskWorker_TestAssembly.xml
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\TaskWorker_TestAssembly\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\TaskWorker_TestAssembly\obj\Debug\TaskWorker_TestAssembly.Resources.resources
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\TaskWorker_TestAssembly\obj\Debug\GenerateResource.read.1.tlog
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\TaskWorker_TestAssembly\obj\Debug\GenerateResource.write.1.tlog
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\TaskWorker_TestAssembly\obj\Debug\TaskWorker_TestAssembly.dll
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\TaskWorker_TestAssembly\obj\Debug\TaskWorker_TestAssembly.xml
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\TaskWorker_TestAssembly\obj\Debug\TaskWorker_TestAssembly.pdb
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_TestAssembly\bin\Debug\TaskWorker_TestAssembly.dll
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_TestAssembly\bin\Debug\TaskWorker_TestAssembly.pdb
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_TestAssembly\bin\Debug\TaskWorker_TestAssembly.xml
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_TestAssembly\bin\Debug\TaskWorker_BLL.dll
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_TestAssembly\bin\Debug\TaskWorker_BLL.pdb
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_TestAssembly\bin\Debug\TaskWorker_BLL.xml
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_TestAssembly\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_TestAssembly\obj\Debug\TaskWorker_TestAssembly.Resources.resources
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_TestAssembly\obj\Debug\GenerateResource.read.1.tlog
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_TestAssembly\obj\Debug\GenerateResource.write.1.tlog
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_TestAssembly\obj\Debug\TaskWorker_TestAssembly.dll
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_TestAssembly\obj\Debug\TaskWorker_TestAssembly.xml
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_TestAssembly\obj\Debug\TaskWorker_TestAssembly.pdb
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_TestAssembly\bin\Debug\TaskWorker_TestAssembly.dll
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_TestAssembly\bin\Debug\TaskWorker_TestAssembly.pdb
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_TestAssembly\bin\Debug\TaskWorker_TestAssembly.xml
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_TestAssembly\bin\Debug\TaskWorker_BLL.dll
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_TestAssembly\bin\Debug\TaskWorker_BLL.pdb
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_TestAssembly\bin\Debug\TaskWorker_BLL.xml
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_TestAssembly\obj\Debug\TaskWorker_TestAssembly.Resources.resources
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_TestAssembly\obj\Debug\TaskWorker_TestAssembly.dll
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_TestAssembly\obj\Debug\TaskWorker_TestAssembly.xml
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_TestAssembly\obj\Debug\TaskWorker_TestAssembly.pdb
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestAssembly\bin\Debug\TaskWorker_TestAssembly.dll
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestAssembly\bin\Debug\TaskWorker_TestAssembly.pdb
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestAssembly\bin\Debug\TaskWorker_TestAssembly.xml
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestAssembly\bin\Debug\TaskWorker_BLL.dll
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestAssembly\bin\Debug\TaskWorker_BLL.pdb
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestAssembly\bin\Debug\TaskWorker_BLL.xml
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestAssembly\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestAssembly\obj\Debug\TaskWorker_TestAssembly.Resources.resources
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestAssembly\obj\Debug\GenerateResource.read.1.tlog
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestAssembly\obj\Debug\GenerateResource.write.1.tlog
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestAssembly\obj\Debug\TaskWorker_TestAssembly.dll
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestAssembly\obj\Debug\TaskWorker_TestAssembly.xml
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestAssembly\obj\Debug\TaskWorker_TestAssembly.pdb
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestAssembly\bin\Debug\TaskWorker_TestAssembly.dll
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestAssembly\bin\Debug\TaskWorker_TestAssembly.pdb
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestAssembly\bin\Debug\TaskWorker_TestAssembly.xml
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestAssembly\bin\Debug\TaskWorker_BLL.dll
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestAssembly\bin\Debug\TaskWorker_BLL.pdb
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestAssembly\bin\Debug\TaskWorker_BLL.xml
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestAssembly\obj\Debug\ResolveAssemblyReference.cache
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestAssembly\obj\Debug\TaskWorker_TestAssembly.Resources.resources
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestAssembly\obj\Debug\TaskWorker_TestAssembly.dll
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestAssembly\obj\Debug\TaskWorker_TestAssembly.xml
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestAssembly\obj\Debug\TaskWorker_TestAssembly.pdb
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_TestAssembly\obj\Debug\TaskWorker_TestAssembly.vbprojResolveAssemblyReference.cache
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_TestAssembly\obj\Debug\TaskWorker_TestAssembly.vbproj.GenerateResource.Cache
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestAssembly\bin\Debug\TaskWorker_TestAssembly.dll
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestAssembly\bin\Debug\TaskWorker_TestAssembly.pdb
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestAssembly\bin\Debug\TaskWorker_TestAssembly.xml
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestAssembly\bin\Debug\TaskWorker_BLL.dll
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestAssembly\bin\Debug\TaskWorker_BLL.pdb
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestAssembly\bin\Debug\TaskWorker_BLL.xml
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestAssembly\obj\Debug\TaskWorker_TestAssembly.vbprojResolveAssemblyReference.cache
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestAssembly\obj\Debug\TaskWorker_TestAssembly.Resources.resources
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestAssembly\obj\Debug\TaskWorker_TestAssembly.vbproj.GenerateResource.Cache
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestAssembly\obj\Debug\TaskWorker_TestAssembly.dll
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestAssembly\obj\Debug\TaskWorker_TestAssembly.xml
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestAssembly\obj\Debug\TaskWorker_TestAssembly.pdb

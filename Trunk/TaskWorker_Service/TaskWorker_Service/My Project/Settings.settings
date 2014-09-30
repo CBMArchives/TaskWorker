@@ -1,0 +1,75 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="MaxTasks" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="ShowForm" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="RunAsService" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="LoadDBSettings" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="RespawnSecs" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="TimeToLive" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">600</Value>
+    </Setting>
+    <Setting Name="WaitOnThreads" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="MaxErrorCount" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="logtofile" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="loggingFormat" Type="System.String" Scope="User">
+      <Value Profile="(Default)">HTML</Value>
+    </Setting>
+    <Setting Name="loggingCSS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Styles\logFiles.css</Value>
+    </Setting>
+    <Setting Name="appcode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">taskworker</Value>
+    </Setting>
+    <Setting Name="appconnectionstr" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=208.180.20.52;Initial Catalog=TaskWorker;Persist Security Info=True;User ID=sysadminuser;password=Cbma!992;</Value>
+    </Setting>
+    <Setting Name="procRunName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">twk_getjobs</Value>
+    </Setting>
+    <Setting Name="appVersion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1.0.0.1</Value>
+    </Setting>
+    <Setting Name="appSection" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dlx_rr_worker01</Value>
+    </Setting>
+    <Setting Name="logpath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\temp\twk-logs</Value>
+    </Setting>
+    <Setting Name="loggingvalues" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1,2,3,20,20,101,102,103,104</Value>
+    </Setting>
+    <Setting Name="load_procs_from_dir" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="load_procs_path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\temp\twk-procedures</Value>
+    </Setting>
+    <Setting Name="load_db_jobs" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="use_assemblies_config" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="procsXML_path" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

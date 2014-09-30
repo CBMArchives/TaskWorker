@@ -1,0 +1,37 @@
+﻿      <action type="process_PensionEligibility" description="process_PensionEligibility" runorder="1" status="pending">
+        <connectionstrings>
+          <connection name="rrdm" value="Data Source=dlogsql;Initial Catalog=documentmanager;Persist Security Info=True;User ID=dmclient; Password=dmclient; Connection Timeout=400;" />
+          <connection name="chess" value="Data Source=dlogsql;Initial Catalog=documentmanager;Persist Security Info=True;User ID=dmclient; Password=dmclient; Connection Timeout=400;" />
+        </connectionstrings>
+        <parameters>
+          <parameter name="path_ToBeProcessed" value="\\doclog\apexport$\Sorting Office" />
+          <parameter name="path_Processed" value="\\doclog\apexport$\Sorting Office\Processed" />
+          <parameter name="path_UnableToProcess" value="\\doclog\apexport$\Sorting Office\UnableToProcess" />
+          <parameter name="path_Logs" value="\\doclog\apexport$\Sorting Office\Logs" />
+          <parameter name="path_outfiles" value="\\doclog\apexport$\Chess Export" />
+          <parameter name="path_tmp" value="\\doclog\apexport$\Sorting Office" />
+
+          <parameter name="drawername" value="HR - Pension Eligible" />
+          <parameter name="tokopen_realm" value="documentmanager" />
+          <parameter name="documenttype" value="" />
+          <parameter name="workflowstatus" value="" />
+          <parameter name="workflowapprover" value="" />
+          <parameter name="tokuser_username" value="rmcnett" />
+          <parameter name="tokuser_password" value="letmein" />
+          <parameter name="process_filename" value="" />
+          <parameter name="process_sp_name" value="dlx_RR_Employee_GetFolderID" />
+          <parameter name="file_startswith" value="pension" />
+          <parameter name="file_regex" value="^pension.idx$" />
+
+
+          <parameter name="smtp_host" value="veronaexchange1.robroy.net" />
+          <parameter name="smtp_userid" value="chessimp" />
+          <parameter name="smtp_password" value="nc3kw96a" />
+          <parameter name="smtp_port" value="25" />
+          <parameter name="smtp_fromaddress" value="APWorkflow@robroy.com" />
+          <parameter name="smtp_toaddress_override" value="Pension_Eligible@robroy.com" />
+          <parameter name="tokopen_realm" value="documentmanager" />
+          <parameter name="tokopen_archivename" value="documentmanager" />
+        </parameters>
+      </action>
+    

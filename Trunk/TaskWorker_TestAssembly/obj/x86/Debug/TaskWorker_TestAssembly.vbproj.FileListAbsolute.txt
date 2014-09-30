@@ -1,0 +1,12 @@
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestAssembly\bin\x86\Debug\TaskWorker_TestAssembly.dll
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestAssembly\bin\x86\Debug\TaskWorker_TestAssembly.pdb
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestAssembly\bin\x86\Debug\TaskWorker_TestAssembly.xml
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestAssembly\bin\x86\Debug\TaskWorker_BLL.dll
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestAssembly\bin\x86\Debug\TaskWorker_BLL.pdb
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestAssembly\bin\x86\Debug\TaskWorker_BLL.xml
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestAssembly\obj\x86\Debug\TaskWorker_TestAssembly.vbprojResolveAssemblyReference.cache
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestAssembly\obj\x86\Debug\TaskWorker_TestAssembly.Resources.resources
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestAssembly\obj\x86\Debug\TaskWorker_TestAssembly.vbproj.GenerateResource.Cache
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestAssembly\obj\x86\Debug\TaskWorker_TestAssembly.dll
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestAssembly\obj\x86\Debug\TaskWorker_TestAssembly.xml
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestAssembly\obj\x86\Debug\TaskWorker_TestAssembly.pdb

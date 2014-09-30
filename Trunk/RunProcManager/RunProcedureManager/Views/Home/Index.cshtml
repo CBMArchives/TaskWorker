@@ -1,0 +1,322 @@
+﻿@{
+    ViewBag.Title = "Run Procedure Manager";
+    
+    // ensure null values are wrapped into strings
+    Func<string, string> nullWrap = s => s == null ? "NULL" : s;
+    
+    if (Request.Form["btnSubmit"] == "Execute")
+    {
+        // determine what rows to act upon
+        var idList = new List<string>();
+        foreach (string id in Request.Unvalidated().Form.AllKeys)
+        {
+            if (id.StartsWith("checkBox"))
+            {
+                idList.Add(id.Substring(8));
+            }
+        }
+        var dataList = RunProcedureManager.Models.Data.get(data => idList.Contains(data.procedureId));
+        
+        // determine action to carry out
+        Action<RunProcedureManager.Models.Data> action = null;
+        switch (Request.Form["actionList"])
+        {
+            case "Delete Job(s)":
+                action = data => data.currentStatus = "deleted_by_admin";
+                break;
+            case "Reset Error Count":
+                action = data => data.errorCount = "0";
+                break;
+            case "Change Status":
+                action = data => data.currentStatus = Request.Form["statusList"];
+                break;
+            case "Restart":
+                action = data =>
+                    {
+                        data.errorCount = "0";
+                        data.processingBy = "";
+                        data.currentStatus = "pending";
+                    };
+                break;
+            case "Set Max Retries":
+                action = data =>
+                    {
+                        var retries = System.Convert.ToUInt32(Request.Form["actionText"]);
+                        data.maxRetries = retries.ToString();
+                    };
+                break;
+            case "Set Priority":
+                action = data =>
+                    {
+                        var priority = System.Convert.ToUInt32(Request.Form["actionText"]);
+                        data.priority = priority.ToString();
+                    };
+                break;
+            case "Clear Comments":
+                action = data => data.comments = "";
+                break;
+            case "Change Source":
+                action = data => data.source = Request.Unvalidated("actionText");
+                break;
+            default:
+                throw new System.Exception("Unknown action.");
+        }
+        
+        // carry out action
+        foreach (var data in dataList)
+        {
+            action(data);
+        }
+        RunProcedureManager.Models.Data.put(dataList.ToArray());
+    }
+}
+
+<script type="text/javascript">
+    function empty(node) {
+        for (var i = node.childNodes.length - 1; i >= 0; i--) {
+            node.removeChild(node.childNodes[i]);
+        }
+    }
+</script>
+
+<form id="form" action="" method="post">
+    <input type="hidden" name="id" value="" />
+    <input type="hidden" name="returnUrl" value="" />
+    <div style="float:right">
+        <select name="actionList" onchange="
+                empty(document.getElementById('errorMsg'));
+                document.getElementById('btnExecute').disabled = selectedIndex == 0;
+                document.getElementsByName('statusList')[0].style.display = this[selectedIndex].value == 'Change Status' ? 'inline' : 'none';
+                document.getElementsByName('actionText')[0].style.display = this[selectedIndex].value in {'Set Max Retries':null, 'Set Priority':null, 'Change Source':null} ? 'inline' : 'none';
+                ">
+            <option>Select Action</option>
+            <option>Delete Job(s)</option>
+            <option>Reset Error Count</option>
+            <option>Change Status</option>
+            <option>Restart</option>
+            <option>Set Max Retries</option>
+            <option>Set Priority</option>
+            <option>Clear Comments</option>
+            <option>Change Source</option>
+        </select>
+        <select name="statusList" style="display:none">
+            <option>pending</option>
+            <option>complete</option>
+            <option>loaded</option>
+            <option>on_hold</option>
+        </select>
+        <input name="actionText" type="text" style="display:none" onkeypress=
+            "var btnExecute = document.getElementById('btnExecute');
+            if (event.keyCode == 13)
+            {
+                btnExecute.click();
+                return false;
+            }">
+        <input id="btnExecute" name="btnSubmit" type="submit" value="Execute" disabled="disabled" onclick="
+            var action = document.getElementsByName('actionList')[0];
+            action = action[action.selectedIndex].value;
+            if (action in {'Set Max Retries':null, 'Set Priority':null})
+            {
+                var actionText = document.getElementsByName('actionText')[0].value;
+                var re = /^\s*(0|[1-9][0-9]*)\s*$/;
+                if (!re.test(actionText))
+                {
+                    var error = document.getElementById('errorMsg');
+                    empty(error);
+                    switch (action)
+                    {
+                        case 'Set Max Retries':
+                            error.appendChild(document.createTextNode('Please correct new value for max retries.'));
+                            break;
+                        case 'Set Priority':
+                            error.appendChild(document.createTextNode('Please correct new value for priority.'));
+                            break;
+                        default:
+                            throw 'Unrecognized action.';
+                    }
+                    return false;
+                }
+            }"/>
+        <p id="errorMsg" style="color:Red"></p>
+    </div>
+    <div>
+        <select name="filterList" onchange="
+                var filter = document.getElementsByName('filterText')[0];
+                switch (this[selectedIndex].text)
+                {
+                    case 'Select Filter':
+                        filter.value = '';
+                        break;
+                    case 'Date':
+                        var day = new Date();
+                        filter.value = (parseInt(day.getMonth()) + 1).toString() + '/' + day.getDate() + '/' + day.getFullYear();
+                        break;
+                    case 'Status':
+                        filter.value = 'pending';
+                        break;
+                    case 'Tracking Number':
+                        filter.value = '';
+                        break;
+                    case 'Tracking Type':
+                        filter.value = '';
+                        break;
+                    default:
+                        throw 'Unrecognized filter type detected.';
+                }
+                filter.disabled = document.getElementById('btnFilter').disabled = selectedIndex == 0;">
+            <option>Select Filter</option>
+            <option>Date</option>
+            <option>Status</option>
+            <option>Tracking Number</option>
+            <option>Tracking Type</option>
+        </select>
+        <input type="text" name="filterText" disabled="disabled" onkeypress=
+            "var btnFilter = document.getElementById('btnFilter');
+            if (event.keyCode == 13)
+            {
+                if (!btnFilter.disabled)
+                {
+                    btnFilter.click();
+                }
+                return false;
+            }"/>
+        <input id="btnFilter" name="btnSubmit" type="submit" value="Filter" disabled="disabled"/>
+    </div>
+    <hr style="width:100%" />
+    <div style="width:100%; height:300px; overflow:scroll">
+        <table id="table">
+            <tr align="center">
+                <th><input type="checkbox" onclick="var rows = document.getElementById('table').rows; for (var i = 1; i < rows.length; i++) { rows[i].cells[0].childNodes[0].checked = this.checked; }"/></th>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Source</th>
+                <th>Priority</th>
+                <th>Status</th>
+                <th>XML</th>
+                <th>Max Retries</th>
+                <th>Is Complete</th>
+                <th>Started On</th>
+                <th>Completed On</th>
+                <th>Error Count</th>
+                <th>Processing By</th>
+                <th>Is Processing</th>
+                <th>Host Name</th>
+                <th>IP Address</th>
+                <th>Comments</th>
+                <th>Added By</th>
+                <th>Added On</th>
+                <th>Tracking Number</th>
+                <th>Type</th>
+            </tr>
+            @{
+                Func<RunProcedureManager.Models.Data, bool> filter;
+                
+                // determine row filter to use
+                if (Request.Form["btnSubmit"] == "Execute")
+                {
+                    var idList = new List<string>();
+                    foreach (string id in Request.Unvalidated().Form.AllKeys)
+                    {
+                        if (id.StartsWith("hidden"))
+                        {
+                            idList.Add(id.Substring(6));
+                        }
+                    }
+                    filter = data => idList.Contains(data.procedureId);
+                }
+                else
+                {
+                    string filterType = Request.Form["filterList"];
+                    switch (filterType)
+                    {
+                        case "Date":
+                            filter = data =>
+                            {
+                                if (Request.Unvalidated("filterText") == "NULL")
+                                {
+                                    return data.completedOn == null || data.startedOn == null;
+                                }
+                                
+                                Func<string, DateTime?> parse = s =>
+                                {
+                                    DateTime date;
+                                    if (DateTime.TryParse(s, out date))
+                                    {
+                                        return date;
+                                    }
+                                    return null;
+                                };
+
+                                var startedDate = parse(data.startedOn);
+                                var completedDate = parse(data.completedOn);
+                                var targetDate = parse(Request.Unvalidated("filterText"));
+
+                                return targetDate.HasValue && (startedDate.HasValue && startedDate.Value.Date == targetDate.Value.Date
+                                    || completedDate.HasValue && completedDate.Value.Date == targetDate.Value.Date);
+                            };
+                            break;
+                        case "Status":
+                            filter = data => nullWrap(data.currentStatus) == Request.Unvalidated("filterText");
+                            break;
+                        case "Tracking Number":
+                            filter = data => nullWrap(data.trackingNumber) == Request.Unvalidated("filterText");
+                            break;
+                        case "Tracking Type":
+                            filter = data => nullWrap(data.trackingNumberType) == Request.Unvalidated("filterText");
+                            break;
+                        case "default":
+                        case null:
+                            filter = null;
+                            break;
+                        default:
+                            throw new System.Exception("Unknown filter type.");
+                    }
+                }
+
+                var list = RunProcedureManager.Models.Data.get(filter);
+                
+                // generate table rows
+                foreach (RunProcedureManager.Models.Data data in list)
+                {
+                    <tr align="center">
+                        @{
+                            var checkBoxName = "checkBox" + data.procedureId;
+                            var hiddenName = "hidden" + data.procedureId;
+                        }
+                        <td><input name="@hiddenName" type="hidden" value="@data.procedureId" /><input type="checkbox" name="@checkBoxName"/></td>
+                        <td>@data.procedureId</td>
+                        <td>@nullWrap(data.name)</td>
+                        <td>@nullWrap(data.source)</td>
+                        <td>@nullWrap(data.priority)</td>
+                        <td>@nullWrap(data.currentStatus)</td>
+                        <td><a onclick=
+                            "form.returnUrl.value = '/';
+                            form.id.value = parentNode.parentNode.cells[1].textContent;
+                            form.action = '/Home/TreeEdit';
+                            form.submit()"
+                            >Edit</a></td>
+                        <td>@nullWrap(data.maxRetries)</td>
+                        <td>@nullWrap(data.isComplete)</td>
+                        <td>@nullWrap(data.startedOn)</td>
+                        <td>@nullWrap(data.completedOn)</td>
+                        <td>@nullWrap(data.errorCount)</td>
+                        <td>@nullWrap(data.processingBy)</td>
+                        <td>@nullWrap(data.isProcessing)</td>
+                        <td>@nullWrap(data.hostName)</td>
+                        <td>@nullWrap(data.ipAddress)</td>
+                        <td><a onclick=
+                            "form.returnUrl.value = '/';
+                            form.id.value = parentNode.parentNode.cells[1].textContent;
+                            form.action = '/Home/TextEdit';
+                            form.submit()"
+                            >Edit</a><br />@{var comments = nullWrap(data.comments); @(comments.Length < 20 ? comments : comments.Substring(0, 20))}</td>
+                        <td>@nullWrap(data.addedBy)</td>
+                        <td>@nullWrap(data.addedOn)</td>
+                        <td>@nullWrap(data.trackingNumber)</td>
+                        <td>@nullWrap(data.trackingNumberType)</td>
+                    </tr>
+                }
+            }
+        </table>
+    </div>
+</form>

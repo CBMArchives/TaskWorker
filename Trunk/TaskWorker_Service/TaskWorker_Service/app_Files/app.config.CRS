@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+            <section name="TaskWorker_Service.My.MySettings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false"/>
+        </sectionGroup>
+    </configSections>
+    <system.diagnostics>
+        <sources>
+            <!-- This section defines the logging configuration for My.Application.Log -->
+            <source name="DefaultSource" switchName="DefaultSwitch">
+                <listeners>
+                    <add name="FileLog"/>
+                    <!-- Uncomment the below section to write to the Application Event Log -->
+                    <!--<add name="EventLog"/>-->
+                </listeners>
+            </source>
+        </sources>
+        <switches>
+            <add name="DefaultSwitch" value="Information"/>
+        </switches>
+        <sharedListeners>
+            <add name="FileLog" type="Microsoft.VisualBasic.Logging.FileLogTraceListener, Microsoft.VisualBasic, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" initializeData="FileLogWriter"/>
+            <!-- Uncomment the below section and replace APPLICATION_NAME with the name of your application to write to the Application Event Log -->
+            <!--<add name="EventLog" type="System.Diagnostics.EventLogTraceListener" initializeData="APPLICATION_NAME"/> -->
+        </sharedListeners>
+    </system.diagnostics>
+    <userSettings>
+        <TaskWorker_Service.My.MySettings>
+          <setting name="appconnectionstr" serializeAs="String">
+            <value>Data Source=DPSCRSQL3;Initial Catalog=FESTransactions;Persist Security Info=True;User ID=fes; Password=fes;</value>
+          </setting>
+            <setting name="appCode" serializeAs="String">
+                <value>taskworker</value>
+            </setting>
+          <setting name="procRunName" serializeAs="String">
+            <value>taskworker_getnexttask</value>
+          </setting>
+          <setting name="appVersion" serializeAs="String">
+            <value>1.0.0.5</value>
+          </setting>
+          
+         
+            <setting name="appSection" serializeAs="String">
+                <value>worker_01</value>
+            </setting>
+            <setting name="MaxTasks" serializeAs="String">
+                <value>1</value>
+            </setting>
+            <setting name="ShowForm" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="RunAsService" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="LoadDBSettings" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="RespawnSecs" serializeAs="String">
+                <value>60</value>
+            </setting>
+            <setting name="TimeToLive" serializeAs="String">
+                <value>600</value>
+            </setting>
+            <setting name="WaitOnThreads" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="MaxErrorCount" serializeAs="String">
+                <value>5</value>
+            </setting>
+            <setting name="logpath" serializeAs="String">
+                <value>c:\taskworkerlogs</value>
+            </setting>
+            <setting name="logtofile" serializeAs="String">
+                <value>False</value>
+            </setting>
+          <setting name="loggingvalues" serializeAs="String">
+            <value>1,2,20,30,101,102,103,104</value>
+          </setting>
+       
+            <setting name="loggingFormat" serializeAs="String">
+                <value>HTML</value>
+            </setting>
+            <setting name="loggingCSS" serializeAs="String">
+                <value>Styles\logFiles.css</value>
+            </setting>
+
+
+
+
+  
+
+        </TaskWorker_Service.My.MySettings>
+    </userSettings>
+<startup><supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.0"/></startup></configuration>

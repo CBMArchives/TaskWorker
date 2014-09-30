@@ -1,0 +1,26 @@
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestConsole\bin\Debug\TaskWorker_TestConsole.exe
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestConsole\bin\Debug\TaskWorker_TestConsole.pdb
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestConsole\bin\Debug\TaskWorker_BLL.dll
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestConsole\bin\Debug\twkActionsLibrary.dll
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestConsole\bin\Debug\twkActionsLibrary.pdb
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestConsole\bin\Debug\TaskWorker_BLL.pdb
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestConsole\bin\Debug\TaskWorker_BLL.xml
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestConsole\obj\x86\Debug\TaskWorker_TestConsole.csprojResolveAssemblyReference.cache
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestConsole\obj\x86\Debug\TaskWorker_TestConsole.exe
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestConsole\obj\x86\Debug\TaskWorker_TestConsole.pdb
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestConsole\bin\Debug\actionXML.xml
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestConsole\bin\Debug\InfonicBLL.dll
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestConsole\bin\Debug\InfonicDA.dll
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestConsole\bin\Debug\InfonicBLL.pdb
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestConsole\bin\Debug\InfonicBLL.xml
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestConsole\bin\Debug\InfonicDA.pdb
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_TestConsole\bin\Debug\InfonicDA.xml
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestConsole\bin\Debug\actionXML.xml
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestConsole\bin\Debug\TaskWorker_TestConsole.exe
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestConsole\bin\Debug\TaskWorker_TestConsole.pdb
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestConsole\bin\Debug\TaskWorker_BLL.dll
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestConsole\bin\Debug\TaskWorker_BLL.pdb
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestConsole\bin\Debug\TaskWorker_BLL.xml
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestConsole\obj\x86\Debug\TaskWorker_TestConsole.csprojResolveAssemblyReference.cache
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestConsole\obj\x86\Debug\TaskWorker_TestConsole.exe
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestConsole\obj\x86\Debug\TaskWorker_TestConsole.pdb

@@ -1,0 +1,161 @@
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\TaskWorker_Service\TaskWorker_Service\bin\Debug\TaskWorker_Service.exe
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\TaskWorker_Service\TaskWorker_Service\bin\Debug\TaskWorker_Service.pdb
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\TaskWorker_Service\TaskWorker_Service\bin\Debug\TaskWorker_Service.xml
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.frmMain.resources
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.Resources.resources
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.exe
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.xml
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.pdb
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\TaskWorker_Service\TaskWorker_Service\bin\Debug\TaskWorker_Service.exe.config
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\TaskWorker_Service\TaskWorker_Service\bin\Debug\CBMArchives.DataStores.dll
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\TaskWorker_Service\TaskWorker_Service\bin\Debug\CBMArchives.DataStores.pdb
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\TaskWorker_Service\TaskWorker_Service\bin\Debug\CBMArchives.DataStores.xml
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\TaskWorker_Service\bin\Debug\TaskWorker_Service.exe.config
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.exe
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.xml
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.pdb
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\TaskWorker_Service\bin\Debug\TaskWorker_Service.exe
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\TaskWorker_Service\bin\Debug\TaskWorker_Service.pdb
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\TaskWorker_Service\bin\Debug\TaskWorker_Service.xml
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\TaskWorker_Service\bin\Debug\CBMArchives.DataStores.dll
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\TaskWorker_Service\bin\Debug\CBMArchives.DataStores.pdb
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\TaskWorker_Service\bin\Debug\CBMArchives.DataStores.xml
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.frmMain.resources
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.Resources.resources
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\bin\Debug\TaskWorker_Service.exe.config
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.exe
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.xml
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.pdb
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\bin\Debug\TaskWorker_Service.exe
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\bin\Debug\TaskWorker_Service.pdb
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\bin\Debug\TaskWorker_Service.xml
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\bin\Debug\CBMArchives.DataStores.dll
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\bin\Debug\TaskWorker_BLL.dll
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\bin\Debug\CBMArchives.DataStores.pdb
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\bin\Debug\CBMArchives.DataStores.xml
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\bin\Debug\TaskWorker_BLL.pdb
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\bin\Debug\TaskWorker_BLL.xml
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.frmMain.resources
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.Resources.resources
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\bin\Debug\CRSLibraries.dll
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\bin\Debug\InfonicDA.dll
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\bin\Debug\CRSLibraries.pdb
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\bin\Debug\CRSLibraries.xml
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\bin\Debug\InfonicDA.pdb
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_Service\bin\Debug\InfonicDA.xml
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\TaskWorker_Service.exe.config
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.exe
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.xml
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.pdb
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.frmMain.resources
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.Resources.resources
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\TaskWorker_Service.exe
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\TaskWorker_Service.pdb
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\TaskWorker_Service.xml
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\TaskWorker_BLL.dll
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\TaskWorker_BLL.pdb
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\TaskWorker_BLL.xml
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.frmMain.resources
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.Resources.resources
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.exe
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.xml
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.pdb
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\TaskWorker_Service.exe.config
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\TaskWorker_Service.exe
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\TaskWorker_Service.pdb
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\TaskWorker_Service.xml
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\CBMArchives.DataStores.dll
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\TaskWorker_BLL.dll
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\Aware.NistPack.dll
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\CBMArchives.DataStores.pdb
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\TaskWorker_BLL.pdb
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\TaskWorker_BLL.xml
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\CRSLibraries.dll
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\InfonicDA.dll
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\CRSLibraries.pdb
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\CRSLibraries.xml
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\InfonicDA.pdb
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\InfonicDA.xml
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.frmMain.resources
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.Resources.resources
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\TaskWorker_Service.exe.config
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\TaskWorker_Service.exe
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\TaskWorker_Service.pdb
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\TaskWorker_Service.xml
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\TaskWorker_BLL.dll
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\TaskWorker_BLL.pdb
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\TaskWorker_BLL.xml
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.exe
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.xml
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.pdb
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\InfonicDA.dll
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\InfonicDA.pdb
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\InfonicDA.xml
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\InfonicBLL.dll
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\InfonicBLL.pdb
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\InfonicBLL.xml
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\InfonicBLL.dll
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\InfonicDA.dll
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\InfonicBLL.pdb
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\InfonicBLL.xml
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\InfonicDA.pdb
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\InfonicDA.xml
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\CRSLibraries.dll
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\CBMArchives.DataStores.dll
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\Aware.NistPack.dll
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\CRSLibraries.pdb
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\CRSLibraries.xml
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\CBMArchives.DataStores.pdb
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\banner.txt
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\banner.txt
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\InfonicBLL.dll
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\InfonicBLL.pdb
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\InfonicBLL.xml
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\CBMArchives.DataStores.xml
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\banner.txt
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\CRSLibraries.dll
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\CBMArchives.DataStores.dll
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\Aware.NistPack.dll
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\CRSLibraries.pdb
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\CRSLibraries.xml
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\CBMArchives.DataStores.pdb
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\CBMArchives.DataStores.xml
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\DLX_RR_Processes.dll
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\DLX_chess_BLL.dll
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\DLX_RR_Processes.pdb
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\DLX_RR_Processes.xml
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\DLX_chess_BLL.pdb
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\DLX_chess_BLL.xml
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.vbprojResolveAssemblyReference.cache
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.vbproj.GenerateResource.Cache
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\banner.txt
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\TaskWorker_Service.exe.config
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\TaskWorker_Service.exe
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\TaskWorker_Service.pdb
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\TaskWorker_Service.xml
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\TaskWorker_BLL.dll
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\TaskWorker_BLL.pdb
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\bin\Debug\TaskWorker_BLL.xml
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.vbprojResolveAssemblyReference.cache
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.frmMain.resources
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.Resources.resources
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.ProjectInstaller.resources
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.vbproj.GenerateResource.Cache
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.exe
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.xml
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_Service\TaskWorker_Service\obj\x86\Debug\TaskWorker_Service.pdb

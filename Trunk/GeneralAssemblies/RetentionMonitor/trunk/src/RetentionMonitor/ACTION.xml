@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<action type="RetentionMonitor.FileMonitor" description="Directory file monitor utility to move, archive, or email files by date" runorder="" status="pending">
+  <parameters>
+    <!--
+    IMPLEMENTATION:   Partially Implemented
+    OPTION:           Optional
+    TYPE:             String
+    NAME:             Operation
+    DESCRIPTION:      The type of file operation to be performed
+    VALUES:           "Delete_Files", "Move_Files", "Rename_Files", "Email_Files", "Scan"
+    DEFAULT:          "Scan"
+    NOTES:            "Rename_Files" and "Email_Files" are not currently implemented
+    -->
+    <parameter name="Operation" value="Scan" />
+    
+    <!--
+    
+      OPTION:         REQUIRED
+      TYPE:           String
+      NAME:           DirectoryPath:
+      DESCRIPTION:    The location of the folder to be monitored
+      VALUES:         C:\DirectoryPath\ToBeMonitored
+      
+    -->
+    <parameter name="directorypath" value="C:\Temp\RetentionMonitor" />
+    <!--
+    
+      OPTION:         REQUIRED
+      TYPE:           String
+      NAME:           AgeInterval
+      DESCRIPTION:    Sets the type of time period you want to specify
+      VALUES:         "millisecond", "second", "minute", "hour", "day", "month", "year":
+      
+    -->
+    <parameter name="AgeInterval" value="minute" />
+    
+    <!--
+    
+      OPTION:         REQUIRED
+      TYPE:           Int32
+      NAME:           AgeValue:
+      DESCRIPTION:    Value determines how many <AgeIntervals> are subtracted from the current date
+      VALUES:         1-99999
+      
+    -->
+    <parameter name="AgeValue" value="5" />
+    
+    <!--
+      OPTION:         OPTIONAL
+      TYPE:           Boolean
+      NAME:           IncludeSubDirectories
+      DESCRIPTION:    Allows the user to configure if all subdirectories should also be parsed for matching files
+      VALUES:         True, False
+      DEFAULT:        True
+    -->
+    <parameter name="IncludeSubDirectories" value="True" />
+    
+    <!--
+      IMPLEMENTATION: Not Implemented
+      OPTION:         OPTIONAL
+      TYPE:           String
+      NAME:           OmitFileExtensions
+      DESCRIPTION:    Allows the user to specify a list of file extentions that will not be parsed.
+      VALUES:         File extensions (EG: exe, pdf, txt)
+    -->
+    <parameter name="OmitFileExtensions" value="exe,txt,pdf" />
+    
+    <!--
+    
+      IMPLEMENTATION: Not Implemented
+      OPTION:         OPTIONAL
+      TYPE:           Boolean
+      NAME:           RunAsThread
+      DESCRIPTION:    Allows the process to run in its own separate thread
+      VALUES:         True, False
+      DEFAULT:        False
+      
+    -->
+    <parameter name="RunAsThread" value="false" />
+    
+    <!--
+      
+      IMPLEMENTATION: Implemented
+      OPTION:         OPTIONAL
+      TYPE:           String
+      NAME:           MoveToPath
+      DESCRIPTION:    The path to move files to when using the "Move_Files" operation
+      VALUES:         D:\Path\ToMove\FilesTo
+      
+    -->
+    <parameter name="MoveToPath" value="C:\MoveDir" />
+  </parameters>
+</action>

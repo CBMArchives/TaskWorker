@@ -1,0 +1,46 @@
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_BLL\bin\Debug\TaskWorker_BLL.dll
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_BLL\bin\Debug\TaskWorker_BLL.pdb
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_BLL\bin\Debug\TaskWorker_BLL.xml
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_BLL\obj\Debug\TaskWorker_BLL.Resources.resources
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_BLL\obj\Debug\GenerateResource.read.1.tlog
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_BLL\obj\Debug\GenerateResource.write.1.tlog
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_BLL\obj\Debug\TaskWorker_BLL.dll
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_BLL\obj\Debug\TaskWorker_BLL.xml
+C:\Development\CBM Development\CBM\COTS\TaskWorker\TaskWorker_BLL\obj\Debug\TaskWorker_BLL.pdb
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_BLL\bin\Debug\TaskWorker_BLL.dll
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_BLL\bin\Debug\TaskWorker_BLL.pdb
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_BLL\bin\Debug\TaskWorker_BLL.xml
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_BLL\obj\Debug\TaskWorker_BLL.Resources.resources
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_BLL\obj\Debug\GenerateResource.read.1.tlog
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_BLL\obj\Debug\GenerateResource.write.1.tlog
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_BLL\obj\Debug\TaskWorker_BLL.dll
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_BLL\obj\Debug\TaskWorker_BLL.xml
+C:\Development\CBM Development\CBM\COTS\TaskWorker\Trunk\TaskWorker_BLL\obj\Debug\TaskWorker_BLL.pdb
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_BLL\bin\Debug\TaskWorker_BLL.dll
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_BLL\bin\Debug\TaskWorker_BLL.pdb
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_BLL\bin\Debug\TaskWorker_BLL.xml
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_BLL\obj\Debug\TaskWorker_BLL.Resources.resources
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_BLL\obj\Debug\GenerateResource.read.1.tlog
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_BLL\obj\Debug\GenerateResource.write.1.tlog
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_BLL\obj\Debug\TaskWorker_BLL.dll
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_BLL\obj\Debug\TaskWorker_BLL.xml
+C:\Development\CBM Archives\cbm\COTS\TaskWorker\Trunk\TaskWorker_BLL\obj\Debug\TaskWorker_BLL.pdb
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_BLL\bin\Debug\TaskWorker_BLL.dll
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_BLL\bin\Debug\TaskWorker_BLL.pdb
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_BLL\bin\Debug\TaskWorker_BLL.xml
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_BLL\obj\Debug\TaskWorker_BLL.Resources.resources
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_BLL\obj\Debug\TaskWorker_BLL.dll
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_BLL\obj\Debug\TaskWorker_BLL.xml
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_BLL\obj\Debug\TaskWorker_BLL.pdb
+L:\Development\CBM ARCHIVES\cbm\COTS\TaskWorker\Trunk\TaskWorker_BLL\obj\Debug\TaskWorker_BLL.vbproj.GenerateResource.Cache
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_BLL\bin\Debug\TaskWorker_BLL.dll
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_BLL\bin\Debug\TaskWorker_BLL.xml
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_BLL\obj\Debug\TaskWorker_BLL.Resources.resources
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_BLL\obj\Debug\TaskWorker_BLL.vbproj.GenerateResource.Cache
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_BLL\obj\Debug\TaskWorker_BLL.dll
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_BLL\obj\Debug\TaskWorker_BLL.xml
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_BLL\obj\Debug\TaskWorker_BLL.pdb
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_BLL\bin\Debug\TaskWorker_BLL.pdb

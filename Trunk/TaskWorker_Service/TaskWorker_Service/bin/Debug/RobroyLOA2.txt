@@ -1,0 +1,433 @@
+01                  700                       2,500.00      Gregory Czegan           gczegan                     1    0 gczegan@robroy.com
+01                  700                   1,000,000.00      Michael Deane            mdeane                      1    0 mdeane@robroy.com
+ 
+01                  701                       2,500.00      Anil Kewalramani         akewalra                    1    0 akewalra@robroy.com
+01                  701                   1,000,000.00      Michael Deane            mdeane                      1    0 mdeane@robroy.com
+ 
+01                  702                       2,500.00      Gregory Czegan           gczegan                     1    0 gczegan@robroy.com
+01                  702                   5,000,000.00      Michael Deane            mdeane                      1    0 mdeane@robroy.com
+ 
+01                  706                           1.00      Gregory Czegan           gczegan                     1    0 gczegan@robroy.com
+01                  706                   2,000,000.00      Michael Deane            mdeane                      1    0 mdeane@robroy.com
+ 
+01                  707                         500.00      Kimberley Rafaloski                                  1    0 krafaloski@robroy.com
+01                  707                       2,500.00      Gregory Czegan           gczegan                     1    0 gczegan@robroy.com
+01                  707                   1,000,000.00      Michael Deane            mdeane                      1    0 mdeane@robroy.com
+ 
+01                  717                       2,500.00      Jean Liberto             jliberto                    1    0 jliberto@robroy.com
+01                  717                   1,000,000.00      Michael Deane            mdeane                      1    0 mdeane@robroy.com
+ 
+01                  718                       2,500.00      Jean Liberto             jliberto                    1    0 jliberto@robroy.com
+01                  718                   1,000,000.00      Michael Deane            mdeane                      1    0 mdeane@robroy.com
+ 
+01                  ACH                           5.00      Gregory Czegan           gczegan                     1    0 gczegan@robroy.com
+01                  ACH                           5.00      Anil Kewalramani         akewalra                    1    0 akewalra@robroy.com
+01                  ACH                   1,000,000.00      Michael Deane            mdeane                      1    0 mdeane@robroy.com
+ 
+01                  DIR                           1.00      Gregory Czegan           gczegan                     1    0 gczegan@robroy.com
+01                  DIR                       2,500.00      Anil Kewalramani         akewalra                    1    0 akewalra@robroy.com
+01                  DIR                   5,000,000.00      Michael Deane            mdeane                      1    0 mdeane@robroy.com
+ 
+01                  PPR                           5.00      Gregory Czegan           gczegan                     2    2 gczegan@robroy.com
+01                  PPR                           5.00      Michael Deane            mdeane                      2    2 mdeane@robroy.com
+01                  PPR                   1,000,000.00      Anil Kewalramani         akewalra                    2    2 akewalra@robroy.com
+ 
+01                  VE1                           1.00      Gregory Czegan           gczegan                     1    0 gczegan@robroy.com
+01                  VE1                   1,000,000.00      Michael Deane            mdeane                      1    0 mdeane@robroy.com
+ 
+01                  VE2                           1.00      Anil Kewalramani         akewalra                    1    0 akewalra@robroy.com
+01                  VE2                   1,000,000.00      Michael Deane            mdeane                      1    0 mdeane@robroy.com
+ 
+01                  VE3                           1.00      Gregory Czegan           gczegan                     1    0 gczegan@robroy.com
+01                  VE3                   1,000,000.00      Michael Deane            mdeane                      1    0 mdeane@robroy.com
+ 
+05                  300                      25,000.00      Donna Waterstraat        dwaterst                    1    0 dwaterst@robroy.com
+05                  300                      25,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+05                  300                      50,000.00      Steve Voelzke            svoelzke                    1    0 svoelzke@robroy.com
+05                  300                   1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+05                  400                      25,000.00      Donna Waterstraat        dwaterst                    1    0 dwaterst@robroy.com
+05                  400                      25,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+05                  400                      50,000.00      Steve Voelzke            svoelzke                    1    0 svoelzke@robroy.com
+05                  400                   1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+05                  502                      25,000.00      Donna Waterstraat        dwaterst                    1    0 dwaterst@robroy.com
+05                  502                      25,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+05                  502                      50,000.00      Steve Voelzke            svoelzke                    1    0 svoelzke@robroy.com
+05                  502                   2,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+05                  600                      50,000.00      Steve Voelzke            svoelzke                    1    0 svoelzke@robroy.com
+05                  600                   1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+05                  601                       2,500.00      Carlean Turner           cturner                     1    0 cturner@robroy.com
+05                  601                      25,000.00      Donna Waterstraat        dwaterst                    1    0 dwaterst@robroy.com
+05                  601                      25,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+05                  601                      50,000.00      Steve Voelzke            svoelzke                    1    0 svoelzke@robroy.com
+05                  601                   1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+05                  602                       2,500.00      Carlean Turner           cturner                     1    0 cturner@robroy.com
+05                  602                      25,000.00      Donna Waterstraat        dwaterst                    1    0 dwaterst@robroy.com
+05                  602                      25,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+05                  602                      50,000.00      Steve Voelzke            svoelzke                    1    0 svoelzke@robroy.com
+05                  602                   1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+05                  603                       2,500.00      Carlean Turner           cturner                     1    0 cturner@robroy.com
+05                  603                      25,000.00      Donna Waterstraat        dwaterst                    1    0 dwaterst@robroy.com
+05                  603                      25,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+05                  603                      50,000.00      Steve Voelzke            svoelzke                    1    0 svoelzke@robroy.com
+05                  603                   1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+05                  700                       2,500.00      Carlean Turner           cturner                     1    0 cturner@robroy.com
+05                  700                      25,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+05                  700                      25,000.00      Donna Waterstraat        dwaterst                    1    0 dwaterst@robroy.com
+05                  700                      50,000.00      Steve Voelzke            svoelzke                    1    0 svoelzke@robroy.com
+05                  700                   1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+05                  701                       2,500.00      Carlean Turner           cturner                     1    0 cturner@robroy.com
+05                  701                      25,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+05                  701                      25,000.00      Donna Waterstraat        dwaterst                    1    0 dwaterst@robroy.com
+05                  701                      50,000.00      Steve Voelzke            svoelzke                    1    0 svoelzke@robroy.com
+05                  701                   1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+05                  702                       2,500.00      Carlean Turner           cturner                     1    0 cturner@robroy.com
+05                  702                      25,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+05                  702                      25,000.00      Donna Waterstraat        dwaterst                    1    0 dwaterst@robroy.com
+05                  702                      50,000.00      Steve Voelzke            svoelzke                    1    0 svoelzke@robroy.com
+05                  702                   1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+05                  703                       2,500.00      Carlean Turner           cturner                     1    0 cturner@robroy.com
+05                  703                      25,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+05                  703                      25,000.00      Donna Waterstraat        dwaterst                    1    0 dwaterst@robroy.com
+05                  703                      50,000.00      Steve Voelzke            svoelzke                    1    0 svoelzke@robroy.com
+05                  703                   1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+05                  704                       2,500.00      Carlean Turner           cturner                     1    0 cturner@robroy.com
+05                  704                      25,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+05                  704                      25,000.00      Donna Waterstraat        dwaterst                    1    0 dwaterst@robroy.com
+05                  704                      50,000.00      Steve Voelzke            svoelzke                    1    0 svoelzke@robroy.com
+05                  704                   1,000,000.00      Michael Deane            mdeane                      1    0 mdeane@robroy.com
+ 
+05                  705                      25,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+05                  705                      50,000.00      Steve Voelzke            svoelzke                    1    0 svoelzke@robroy.com
+05                  705                   1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+05                  707                         500.00      Carlean Turner           cturner                     1    0 cturner@robroy.com
+05                  707                      25,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+05                  707                      25,000.00      Donna Waterstraat        dwaterst                    1    0 dwaterst@robroy.com
+05                  707                      50,000.00      Steve Voelzke            svoelzke                    1    0 svoelzke@robroy.com
+05                  707                   1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+05                  708                      25,000.00      Donna Waterstraat        dwaterst                    1    0 dwaterst@robroy.com
+05                  708                      50,000.00      Steve Voelzke            svoelzke                    1    0 svoelzke@robroy.com
+05                  708                   1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+05                  718                       2,500.00      Carlean Turner           cturner                     1    0 cturner@robroy.com
+05                  718                     250,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+05                  718                     250,000.00      Donna Waterstraat        dwaterst                    1    0 dwaterst@robroy.com
+ 
+05                  ACH                           5.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+05                  ACH                           5.00      Donna Waterstraat        dwaterst                    1    0 dwaterst@robroy.com
+05                  ACH                           5.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+05                  ACH                   1,000,000.00      Carlean Turner           cturner                     1    0 cturner@robroy.com
+ 
+05                  GE1                           1.00      Steve Voelzke            svoelzke                    1    0 svoelzke@robroy.com
+05                  GE1                   1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+05                  GE2                           1.00      Donna Waterstraat        dwaterst                    1    0 dwaterst@robroy.com
+05                  GE2                   1,000,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+ 
+05                  GE3                           1.00      Carlean Turner           cturner                     1    0 cturner@robroy.com
+05                  GE3                   1,000,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+ 
+05                  GE4                           1.00      Steve Voelzke            svoelzke                    1    0 svoelzke@robroy.com
+05                  GE4                   1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+05                  GE5                           1.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+05                  GE5                   1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+05                  MRM                   1,000,000.00      Donna Waterstraat        dwaterst                    1    0 dwaterst@robroy.com
+05                  MRM                   1,000,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+05                  MRM                   2,000,000.00      Steve Voelzke            svoelzke                    1    0 svoelzke@robroy.com
+05                  MRM                   5,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+05                  MRP                   1,000,000.00      Donna Waterstraat        dwaterst                    1    0 dwaterst@robroy.com
+05                  MRP                   1,000,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+05                  MRP                   2,000,000.00      Steve Voelzke            svoelzke                    1    0 svoelzke@robroy.com
+05                  MRP                   5,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+05                  PPR                           5.00      Vijay Tahiliani          vkumar                      2    2 vkumar@robroy.com
+05                  PPR                           5.00      David Marshall           dmarshall                   2    2 dmarshall@robroy.com
+05                  PPR                           5.00      Steve Voelzke            svoelzke                    2    2 svoelzke@robroy.com
+05                  PPR                           5.00      Donna Waterstraat        dwaterst                    2    2 dwaterst@robroy.com
+05                  PPR                   1,000,000.00      Carlean Turner           cturner                     2    2 cturner@robroy.com
+ 
+05                  TEST                          1.00      Carlean Turner           cturner                     1    0 cturner@robroy.com
+05                  TEST                          5.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+ 
+07                  502                         500.00      Donna Waterstraat        dwaterst                    1    0 dwaterst@robroy.com
+07                  502                      25,000.00      Donna Waterstraat        dwaterst                    1    0 dwaterst@robroy.com
+07                  502                      25,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+07                  502                   2,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+07                  600                       2,500.00      Carlean Turner           cturner                     1    0 cturner@robroy.com
+07                  600                      25,000.00      Donna Waterstraat        dwaterst                    1    0 dwaterst@robroy.com
+07                  600                      25,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+07                  600                   1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+07                  700                       2,500.00      Carlean Turner           cturner                     1    0 cturner@robroy.com
+07                  700                      25,000.00      Donna Waterstraat        dwaterst                    1    0 dwaterst@robroy.com
+07                  700                      25,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+07                  700                   1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+07                  705                      25,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+07                  705                      25,000.00      Donna Waterstraat        dwaterst                    1    0 dwaterst@robroy.com
+07                  705                   1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+07                  707                         500.00      Carlean Turner           cturner                     1    0 cturner@robroy.com
+07                  707                      25,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+07                  707                      25,000.00      Donna Waterstraat        dwaterst                    1    0 dwaterst@robroy.com
+07                  707                   1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+07                  718                       2,500.00      Carlean Turner           cturner                     1    0 cturner@robroy.com
+07                  718                     250,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+07                  718                     250,000.00      Donna Waterstraat        dwaterst                    1    0 dwaterst@robroy.com
+ 
+07                  MRM                   1,000,000.00      Donna Waterstraat        dwaterst                    1    0 dwaterst@robroy.com
+07                  MRM                   1,000,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+07                  MRM                   2,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+07                  MRP                   1,000,000.00      Donna Waterstraat        dwaterst                    1    0 dwaterst@robroy.com
+07                  MRP                   1,000,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+07                  MRP                   2,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+10                  300                       2,500.00      Roger Schroder           rschroder                   1    0 rschroder@stahlin.com
+10                  300                      25,000.00      Craig Mitchell           cmitchell                   1    0 cmitchell@robroy.com
+10                  300                   1,000,000.00      Jeffrey Seagle           jseagle                     1    0 jseagle@robroy.com
+ 
+10                  400                      25,000.00      Craig Mitchell           cmitchell                   1    0 cmitchell@robroy.com
+10                  400                   1,000,000.00      Jeffrey Seagle           jseagle                     1    0 jseagle@robroy.com
+ 
+10                  502                       2,500.00      David Boggiano           dboggian                    1    0 dboggian@robroy.com
+10                  502                      25,000.00      Craig Mitchell           cmitchell                   1    0 cmitchell@robroy.com
+10                  502                   2,000,000.00      Jeffrey Seagle           jseagle                     1    0 jseagle@robroy.com
+ 
+10                  600                         500.00      David Slivinski          dslivinski                  1    0 dslivinski@stahlin.com
+10                  600                   1,000,000.00      Jeffrey Seagle           jseagle                     1    0 jseagle@robroy.com
+ 
+10                  601                         500.00      David Slivinski          dslivinski                  1    0 dslivinski@stahlin.com
+10                  601                      25,000.00      Craig Mitchell           cmitchell                   1    0 cmitchell@robroy.com
+10                  601                   1,000,000.00      Jeffrey Seagle           jseagle                     1    0 jseagle@robroy.com
+ 
+10                  602                      25,000.00      David Slivinski          dslivinski                  1    0 dslivinski@stahlin.com
+10                  602                   1,000,000.00      Jeffrey Seagle           jseagle                     1    0 jseagle@robroy.com
+ 
+10                  603                      25,000.00      David Slivinski          dslivinski                  1    0 dslivinski@stahlin.com
+10                  603                   1,000,000.00      Jeffrey Seagle           jseagle                     1    0 jseagle@robroy.com
+ 
+10                  700                       2,500.00      Cynthia Stowell          cstowell                    1    0 cstowell@robroy.com
+10                  700                      25,000.00      Craig Mitchell           cmitchell                   1    0 cmitchell@robroy.com
+10                  700                   1,000,000.00      Jeffrey Seagle           jseagle                     1    0 jseagle@robroy.com
+ 
+10                  701                      25,000.00      Craig Mitchell           cmitchell                   1    0 cmitchell@robroy.com
+10                  701                   1,000,000.00      Jeffrey Seagle           jseagle                     1    0 jseagle@robroy.com
+ 
+10                  702                      25,000.00      Craig Mitchell           cmitchell                   1    0 cmitchell@robroy.com
+10                  702                   1,000,000.00      Jeffrey Seagle           jseagle                     1    0 jseagle@robroy.com
+ 
+10                  703                      25,000.00      Craig Mitchell           cmitchell                   1    0 cmitchell@robroy.com
+10                  703                   1,000,000.00      Jeffrey Seagle           jseagle                     1    0 jseagle@robroy.com
+ 
+10                  704                      25,000.00      Craig Mitchell           cmitchell                   1    0 cmitchell@robroy.com
+10                  704                   1,000,000.00      Jeffrey Seagle           jseagle                     1    0 jseagle@robroy.com
+ 
+10                  705                       2,500.00      Cynthia Stowell          cstowell                    1    0 cstowell@robroy.com
+10                  705                      25,000.00      Craig Mitchell           cmitchell                   1    0 cmitchell@robroy.com
+10                  705                   1,000,000.00      Jeffrey Seagle           jseagle                     1    0 jseagle@robroy.com
+ 
+10                  707                       2,500.00      Cynthia Stowell          cstowell                    1    0 cstowell@robroy.com
+10                  707                      25,000.00      Craig Mitchell           cmitchell                   1    0 cmitchell@robroy.com
+10                  707                   1,000,000.00      Jeffrey Seagle           jseagle                     1    0 jseagle@robroy.com
+ 
+10                  708                       2,500.00      Roger Schroder           rschroder                   1    0 rschroder@stahlin.com
+10                  708                      25,000.00      Craig Mitchell           cmitchell                   1    0 cmitchell@robroy.com
+10                  708                   1,000,000.00      Jeffrey Seagle           jseagle                     1    0 jseagle@robroy.com
+ 
+10                  718                       2,500.00      Cynthia Stowell          cstowell                    1    0 cstowell@robroy.com
+10                  718                     250,000.00      Craig Mitchell           cmitchell                   1    0 cmitchell@robroy.com
+ 
+10                  EE1                           1.00      Craig Mitchell           cmitchell                   1    0 cmitchell@robroy.com
+10                  EE1                   1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+10                  EE2                           1.00      David Slivinski          dslivinski                  1    0 dslivinski@stahlin.com
+10                  EE2                   1,000,000.00      Jeffrey Seagle           jseagle                     1    0 jseagle@robroy.com
+ 
+10                  EE3                           1.00      Craig Mitchell           cmitchell                   1    0 cmitchell@robroy.com
+10                  EE3                   1,000,000.00      Jeffrey Seagle           jseagle                     1    0 jseagle@robroy.com
+ 
+10                  EE4                           1.00      Roger Schroder           rschroder                   1    0 rschroder@stahlin.com
+10                  EE4                   1,000,000.00      Craig Mitchell           cmitchell                   1    0 cmitchell@robroy.com
+ 
+10                  JEFFS                         1.00      Craig Mitchell           cmitchell                   1    0 cmitchell@robroy.com
+10                  JEFFS                 1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+10                  MRM                      25,000.00      Craig Mitchell           cmitchell                   1    0 cmitchell@robroy.com
+10                  MRM                   2,000,000.00      Jeffrey Seagle           jseagle                     1    0 jseagle@robroy.com
+ 
+10                  MRP                      25,000.00      Craig Mitchell           cmitchell                   1    0 cmitchell@robroy.com
+10                  MRP                   2,000,000.00      Jeffrey Seagle           jseagle                     1    0 jseagle@robroy.com
+ 
+10                  PPR                           5.00      Beld Controller-Temp Chricbisanz                     2    2 cayres@stahlin.com
+10                  PPR                           5.00      Jeffrey Seagle           jseagle                     2    2 jseagle@robroy.com
+10                  PPR                   1,000,000.00      Craig Mitchell           cmitchell                   2    2 cmitchell@robroy.com
+ 
+14                  010                      25,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+14                  010                   1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+14                  020                      25,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+14                  020                   1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+14                  040                      25,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+14                  040                   1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+14                  300                       2,500.00      Oscar Zapata             ozapata                     1    0 ozapata@robroy.com
+14                  300                      25,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+14                  300                   1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+14                  400                      25,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+14                  400                   1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+14                  502                      25,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+14                  502                   2,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+14                  600                      25,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+14                  600                   1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+14                  601                      25,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+14                  601                   1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+14                  700                      25,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+14                  700                   1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+14                  703                      25,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+14                  703                   1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+14                  704                      25,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+14                  704                   1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+14                  705                      25,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+14                  705                   1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+14                  707                      25,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+14                  707                   1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+14                  708                       2,500.00      Oscar Zapata             ozapata                     1    0 ozapata@robroy.com
+14                  708                      25,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+14                  708                   1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+14                  718                     250,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+14                  718                   1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+14                  DE1                           1.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+14                  DE1                   1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+14                  DE2                           1.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+14                  DE2                   1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+14                  DE3                           1.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+14                  DE3                   1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+14                  DE4                           1.00      Oscar Zapata             ozapata                     1    0 ozapata@robroy.com
+14                  DE4                   1,000,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+ 
+14                  MRM                   1,000,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+14                  MRM                   2,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+14                  MRP                   1,000,000.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+14                  MRP                   2,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+14                  PPR                           5.00      Vijay Tahiliani          vkumar                      2    2 vkumar@robroy.com
+14                  PPR                   1,000,000.00      David Marshall           dmarshall                   2    2 dmarshall@robroy.com
+14                  PPR                   1,000,000.00      Michael Deane            mdeane                      2    2 mdeane@robroy.com
+ 
+Multi               GA-BL                         5.00      Carlean Turner           cturner                     1    0 cturner@robroy.com
+Multi               GA-BL                         6.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+Multi               GA-BL                    25,000.00      Craig Mitchell           cmitchell                   1    0 cmitchell@robroy.com
+ 
+Multi               GA-BL-VB                      5.00      Carlean Turner           cturner                     1    0 cturner@robroy.com
+Multi               GA-BL-VB                      6.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+Multi               GA-BL-VB                      7.00      Craig Mitchell           cmitchell                   1    0 cmitchell@robroy.com
+Multi               GA-BL-VB              1,000,000.00      Michael Deane            mdeane                      1    0 mdeane@robroy.com
+ 
+Multi               GA-DG                         5.00      Carlean Turner           cturner                     1    0 cturner@robroy.com
+Multi               GA-DG                    25,000.01      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+Multi               GA-DG                 1,000,000.00      David Marshall           dmarshall                   1    0 dmarshall@robroy.com
+ 
+Multi               GA-DG-DO-BL                   5.00      Carlean Turner           cturner                     1    0 cturner@robroy.com
+Multi               GA-DG-DO-BL                   6.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+Multi               GA-DG-DO-BL              25,000.00      Craig Mitchell           cmitchell                   1    0 cmitchell@robroy.com
+ 
+Multi               GA-DG-DO-BL-VB                5.00      Carlean Turner           cturner                     1    0 cturner@robroy.com
+Multi               GA-DG-DO-BL-VB                6.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+Multi               GA-DG-DO-BL-VB                7.00      Craig Mitchell           cmitchell                   1    0 cmitchell@robroy.com
+Multi               GA-DG-DO-BL-VB        1,000,000.00      Michael Deane            mdeane                      1    0 mdeane@robroy.com
+ 
+Multi               GA-DG-DO-VB                   5.00      Carlean Turner           cturner                     1    0 cturner@robroy.com
+Multi               GA-DG-DO-VB                   6.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+Multi               GA-DG-DO-VB           1,000,000.00      Michael Deane            mdeane                      1    0 mdeane@robroy.com
+ 
+Multi               GA-DO                         5.00      Carlean Turner           cturner                     1    0 cturner@robroy.com
+Multi               GA-DO                    25,000.01      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+ 
+Multi               GA-VB                         5.00      Carlean Turner           cturner                     1    0 cturner@robroy.com
+Multi               GA-VB                         6.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+Multi               GA-VB                 1,000,000.00      Michael Deane            mdeane                      1    0 mdeane@robroy.com
+ 
+Multi               VB-BL                         5.00      Craig Mitchell           cmitchell                   1    0 cmitchell@robroy.com
+Multi               VB-BL                 1,000,000.00      Michael Deane            mdeane                      1    0 mdeane@robroy.com
+ 
+Multi               VB-DG                         5.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+Multi               VB-DG                 1,000,000.00      Michael Deane            mdeane                      1    0 mdeane@robroy.com
+ 
+Multi               VB-DG-BL                      5.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+Multi               VB-DG-BL                      6.00      Craig Mitchell           cmitchell                   1    0 cmitchell@robroy.com
+Multi               VB-DG-BL              1,000,000.00      Michael Deane            mdeane                      1    0 mdeane@robroy.com
+ 
+Multi               VB-DO                         5.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+Multi               VB-DO                 1,000,000.00      Michael Deane            mdeane                      1    0 mdeane@robroy.com
+ 
+Multi               VB-DO-BL                      5.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+Multi               VB-DO-BL                      6.00      Craig Mitchell           cmitchell                   1    0 cmitchell@robroy.com
+Multi               VB-DO-BL              1,000,000.00      Michael Deane            mdeane                      1    0 mdeane@robroy.com
+ 
+Multi               VB-GA                         5.00      Carlean Turner           cturner                     1    0 cturner@robroy.com
+Multi               VB-GA                         6.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+Multi               VB-GA                 1,000,000.00      Michael Deane            mdeane                      1    0 mdeane@robroy.com
+ 
+Multi               VB-GA-BL                      5.00      Carlean Turner           cturner                     1    0 cturner@robroy.com
+Multi               VB-GA-BL                      6.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+Multi               VB-GA-BL                      7.00      Craig Mitchell           cmitchell                   1    0 cmitchell@robroy.com
+Multi               VB-GA-BL              1,000,000.00      Michael Deane            mdeane                      1    0 mdeane@robroy.com
+ 
+Multi               VB-GA-DG                      5.00      Carlean Turner           cturner                     1    0 cturner@robroy.com
+Multi               VB-GA-DG                      6.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+Multi               VB-GA-DG              1,000,000.00      Michael Deane            mdeane                      1    0 mdeane@robroy.com
+ 
+Multi               VB-GA-DG-BL                   5.01      Anil Kewalramani         akewalra                    1    0 akewalra@robroy.com
+Multi               VB-GA-DG-BL                   5.02      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+Multi               VB-GA-DG-BL             100,000.00      Craig Mitchell           cmitchell                   1    0 cmitchell@robroy.com
+Multi               VB-GA-DG-BL           1,000,000.00      Michael Deane            mdeane                      1    0 mdeane@robroy.com
+ 
+Multi               VB-GA-DG-DO-BL                5.00      Carlean Turner           cturner                     1    0 cturner@robroy.com
+Multi               VB-GA-DG-DO-BL                6.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+Multi               VB-GA-DG-DO-BL                7.00      Craig Mitchell           cmitchell                   1    0 cmitchell@robroy.com
+Multi               VB-GA-DG-DO-BL        1,000,000.00      Michael Deane            mdeane                      1    0 mdeane@robroy.com
+ 
+Multi               VB-GA-DO                      5.00      Carlean Turner           cturner                     1    0 cturner@robroy.com
+Multi               VB-GA-DO                      6.00      Vijay Tahiliani          vkumar                      1    0 vkumar@robroy.com
+Multi               VB-GA-DO              1,000,000.00      Michael Deane            mdeane                      1    0 mdeane@robroy.com
+ 
+Multi               WELFAR3                       5.00      Gregory Czegan           gczegan                     1    0 gczegan@robroy.com
+Multi               WELFAR3                       5.01      Craig Mitchell           cmitchell                   1    0 cmitchell@robroy.com
+Multi               WELFAR3                  50,000.00      Steve Voelzke            svoelzke                    1    0 svoelzke@robroy.com
+Multi               WELFAR3                 250,000.00      Michael Deane            mdeane                      1    0 mdeane@robroy.com
+

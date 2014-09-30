@@ -1,0 +1,306 @@
+﻿@{
+    ViewBag.Title = "TreeEdit";
+}
+
+@helper processElem(System.Xml.Linq.XElement elem, bool removable=true)
+{
+    // create tag
+    <li>
+        @if (removable) { <a onclick="reclaim(getChildren(parentNode, 'ul')[0]); parentNode.parentNode.removeChild(parentNode);">DEL</a> }
+        <a onclick="toggle('content@(ViewBag.counter)')">TAG:</a>
+        <input type="hidden" value="tag" />
+        <input type="text" value="@elem.Name.ToString()" />
+        <ul id="content@(ViewBag.counter)" style="display:none">
+
+        @* create attributes *@
+        @foreach (var attr in elem.Attributes())
+        {
+            <li>
+                <a onclick="parentNode.parentNode.removeChild(parentNode);">DEL</a> ATTR:
+                <input type="hidden" value="attr" />
+                <input type="text" value="@attr.Name.ToString()" /> = <input type="text" value="@attr.Value.Replace("\r", "&#xD;").Replace("\n", "&#xA;")" />
+            </li>
+        }
+
+        @* create link to add attributes *@
+        <li>
+            <input type="hidden" value="add" />
+            <a onclick="addAttr(parentNode);">ADD ATTRIBUTE</a>
+        </li>
+
+        @* add other elements *@
+        @foreach (dynamic node in elem.Nodes())
+        {
+            System.Xml.XmlNodeType nodeType = node.NodeType;
+            switch (nodeType)
+            {
+                case System.Xml.XmlNodeType.Text:
+                    <li>TEXT:
+                        <input type="hidden" value="text" />
+                        <input type="text" value="@node.Value.Replace("\r", "&#xD;").Replace("\n", "&#xA;")" />
+                    </li>
+                    break;
+                case System.Xml.XmlNodeType.Element:
+                    ViewBag.counter++;
+                    @processElem(node)
+                    break;
+                default:
+                    throw new Exception("Unsupported XML node type detected.");
+            }
+        }
+
+        <li>
+            <input type="hidden" value="add" />
+            <a onclick="addTag(parentNode);">ADD TAG</a>
+        </li><li>
+            <input type="hidden" value="add" />
+            <a onclick="addText(parentNode);">ADD TEXT</a>
+        </li>
+        </ul>
+    </li>
+}
+
+@if (Request.Form["done"] == "True")
+{
+    if (Request.Form["btnSubmit"] == "Save")
+    {
+        // save xml
+        var data = RunProcedureManager.Models.Data.get(arg => arg.procedureId == Request.Form["id"])[0];
+        data.procsXml = Server.HtmlDecode(Request.Unvalidated("xml"));
+        RunProcedureManager.Models.Data.put(data);
+    }
+    Response.Redirect(Request.Form["returnUrl"]);
+}
+else
+{
+    ViewBag.counter = 0;
+    var xml = System.Xml.Linq.XDocument.Parse(RunProcedureManager.Models.Data.get(data => data.procedureId == Request.Form["id"])[0].procsXml);
+
+    <script type="text/javascript">
+        var idList = [] // will hold freed tag id values
+        function addAttr(node) {
+            var li = document.createElement('li');
+            var a = document.createElement('a');
+            a.setAttribute('onclick', 'parentNode.parentNode.removeChild(parentNode);');
+            a.appendChild(document.createTextNode('DEL'));
+            li.appendChild(a);
+            li.appendChild(document.createTextNode(' ATTR: '));
+            var input = document.createElement('input');
+            input.setAttribute('type', 'hidden');
+            input.setAttribute('value', 'attr');
+            li.appendChild(input);
+            input = document.createElement('input');
+            input.setAttribute('type', 'text');
+            li.appendChild(input);
+            li.appendChild(document.createTextNode(' = '));
+            input = document.createElement('input');
+            input.setAttribute('type', 'text');
+            li.appendChild(input);
+            node.parentNode.insertBefore(li, node);
+        }
+        function addText(node) {
+            var li = document.createElement('li');
+            var a = document.createElement('a');
+            a.setAttribute('onclick', 'parentNode.parentNode.removeChild(parentNode);');
+            a.appendChild(document.createTextNode('DEL'));
+            li.appendChild(a);
+            li.appendChild(document.createTextNode(' TEXT: '));
+            var input = document.createElement('input');
+            input.setAttribute('type', 'hidden');
+            input.setAttribute('value', 'add');
+            li.appendChild(input);
+            input = document.createElement('input');
+            input.setAttribute('type', 'text');
+            li.appendChild(input);
+            node.parentNode.insertBefore(li, node.previousSibling);
+        }
+        function addTag(node) {
+            var li = document.createElement('li');
+            var a = document.createElement('a');
+            a.setAttribute('onclick', 'reclaim(getChildren(parentNode, \'ul\')[0]); parentNode.parentNode.removeChild(parentNode);');
+            a.appendChild(document.createTextNode('DEL'));
+            li.appendChild(a);
+            li.appendChild(document.createTextNode(' '));
+            var id = idList.length > 0 ? idList.pop() : 'content' + (counter++).toString();
+            a = document.createElement('a');
+            a.setAttribute('onclick', 'toggle(\''+id+'\');');
+            a.appendChild(document.createTextNode('TAG:'));
+            li.appendChild(a);
+            li.appendChild(document.createTextNode(' '));
+            var input = document.createElement('input');
+            input.setAttribute('type', 'hidden');
+            input.setAttribute('value', 'tag');
+            li.appendChild(input);
+            input = document.createElement('input');
+            input.setAttribute('type', 'text');
+            li.appendChild(input);
+            var ul = document.createElement('ul');
+            ul.setAttribute('id', id);
+            ul.setAttribute('style', 'display:none');
+            var subLi = document.createElement('li');
+            input = document.createElement('input');
+            input.setAttribute('type', 'hidden');
+            input.setAttribute('value', 'add');
+            subLi.appendChild(input);
+            a = document.createElement('a');
+            a.setAttribute('onclick', 'addAttr(parentNode);');
+            a.appendChild(document.createTextNode('ADD ATTRIBUTE'));
+            subLi.appendChild(a);
+            ul.appendChild(subLi);
+            subLi = document.createElement('li');
+            input = document.createElement('input');
+            input.setAttribute('type', 'hidden');
+            input.setAttribute('value', 'add');
+            subLi.appendChild(input);
+            a = document.createElement('a');
+            a.setAttribute('onclick', 'addTag(parentNode);');
+            a.appendChild(document.createTextNode('ADD TAG'));
+            subLi.appendChild(a);
+            ul.appendChild(subLi);
+            subLi = document.createElement('li');
+            input = document.createElement('input');
+            input.setAttribute('type', 'hidden');
+            input.setAttribute('value', 'add');
+            subLi.appendChild(input);
+            a = document.createElement('a');
+            a.setAttribute('onclick', 'addText(parentNode);');
+            a.appendChild(document.createTextNode('ADD TEXT'));
+            subLi.appendChild(a);
+            ul.appendChild(subLi);
+            li.appendChild(ul);
+            node.parentNode.insertBefore(li, node);
+        }
+
+        // reclaim tag id values
+        function reclaim(ul) {
+            idList.push(ul.id);
+            var nodes = getChildren(ul, 'li');
+            for (var i = 0; i < nodes.length; i++) {
+                inputs = getChildren(nodes[i], 'input');
+                if (inputs[0].value == 'tag') {
+                    reclaim(getChildren(nodes[i], 'ul')[0]);
+                }
+            }
+        }
+
+        // toggle sub element visibility
+        function toggle(id) {
+            var elem = document.getElementById(id);
+            if (elem.style.display == 'none') {
+                elem.style.display = 'block';
+            }
+            else {
+                elem.style.display = 'none';
+            }
+        }
+
+        function getChildren(elem, name) {
+            result = []
+            for (var i = 0; i < elem.childNodes.length; i++) {
+                if (elem.childNodes[i].nodeName.toLowerCase() == name) {
+                    result.push(elem.childNodes[i]);
+                }
+            }
+            return result;
+        }
+
+        // create xml tag
+        function getTag(xml, elem, childIndent) {
+            var tag = xml.createElement(getChildren(elem, 'input')[1].value);
+            var subElements = getChildren(getChildren(elem, 'ul')[0], 'li');
+            var indentState = null;
+
+            for (var i = 0; i < subElements.length; i++) {
+                var inputElements = getChildren(subElements[i], 'input');
+                switch (inputElements[0].value) {
+                    case 'tag':
+                        if (indentState != false) {
+                            var s = '\n  ';
+                            for (x = 1; x < childIndent; x++) {
+                                s += '  ';
+                            }
+                        }
+                        tag.appendChild(xml.createTextNode(s));
+                        tag.appendChild(getTag(xml, subElements[i], childIndent + 1));
+                        indentState = true;
+                        break;
+                    case 'attr':
+                        tag.setAttribute(inputElements[1].value, inputElements[2].value);
+                        break;
+                    case 'text':
+                        tag.appendChild(xml.createTextNode(inputElements[1].value));
+                        indentState = false;
+                        break;
+                    case 'add':
+                        break;
+                    default:
+                        throw 'Failed to determined type of element.';
+                }
+            }
+
+            if (indentState == true) {
+                var s = '\n';
+                for (var i = 0; i < childIndent - 1; i++) {
+                    s += '  ';
+                }
+                tag.appendChild(xml.createTextNode(s));
+            }
+            return tag;
+        }
+
+        function makeXml() {
+            var root = document.getElementById('root');
+            var xml = new ActiveXObject('Microsoft.XMLDOM');
+            xml.async = false;
+            xml.appendChild(getTag(xml, getChildren(root, 'li')[0], 1));
+            return xml.xml;
+        }
+        function empty(node) {
+            for (var i = node.childNodes.length - 1; i >= 0; i--) {
+                node.removeChild(node.childNodes[i]);
+            }
+        }
+    </script>
+
+    <table style="width:100%">
+        <tr>
+            <td id="treeError" style="color:Red"></td>
+            <td align="right">
+                <script type="text/javascript">
+                    var saveFlag = false;
+                </script>
+                <form action="" method="post" onsubmit="
+                    if (saveFlag)
+                    {
+                        try
+                        {
+                            xml.value = makeXml();
+                        }
+                        catch (error)
+                        {
+                            var errorMsg = document.getElementById('treeError');
+                            empty(errorMsg);
+                            errorMsg.appendChild(document.createTextNode('XML not saved due to invalid tree. Please correct tree.'));
+                            return false;
+                        }
+                    }">
+                    <input name="xml" type="hidden" />
+                    <input name="id" type="hidden" value="@Request.Form["id"]" />
+                    <input name="done" type="hidden" value="True" />
+                    <input name="returnUrl" type="hidden" value="@Request.Form["returnUrl"]" />
+                    <input name="btnSubmit" type="submit" value="Save" onclick="saveFlag = true;" />
+                    <input name="btnSubmit" type="submit" value="Cancel" onclick="saveFlag = false;" />
+                </form>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <ul id="root">@processElem(xml.Root, false)</ul>
+            </td>
+        </tr>
+    </table>
+    <input id="counter" type="hidden" value="@(ViewBag.counter+1)" />
+    <script type="text/javascript">
+        var counter = parseInt(document.getElementById('counter').value) // will be used to generate new tag id values
+    </script>
+}

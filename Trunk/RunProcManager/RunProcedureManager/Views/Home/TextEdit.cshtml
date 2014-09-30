@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "TextEdit";
+}
+
+@{var data = RunProcedureManager.Models.Data.get(arg => arg.procedureId == Request.Form["id"])[0];}
+
+@if (Request.Form["done"] == "True")
+{
+    if (Request.Form["btnSubmit"] == "Save")
+    {
+        // save comment
+        data.comments = Request.Unvalidated("text");
+        RunProcedureManager.Models.Data.put(data);
+    }
+    Response.Redirect("/");
+}
+else
+{
+    <form action="" method="post">
+        <input type="hidden" name="returnUrl" value="@Request.Form["returnUrl"]" />
+        <input type="hidden" name="id" value="@Request.Form["id"]" />
+        <input type="hidden" name="done" value="True" />
+        <textarea rows="" cols="" name="text" style="width:100%; height:300px">@data.comments</textarea>
+        <br /><br />
+        <div align="right">
+            <input type="submit" name="btnSubmit" value="Save" />
+            <input type="submit" name="btnSubmit" value="Cancel" />
+        </div>
+    </form>
+}

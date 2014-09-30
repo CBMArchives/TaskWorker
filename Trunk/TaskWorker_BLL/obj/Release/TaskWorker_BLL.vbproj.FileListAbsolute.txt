@@ -1,0 +1,8 @@
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_BLL\bin\Release\TaskWorker_BLL.dll
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_BLL\bin\Release\TaskWorker_BLL.pdb
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_BLL\bin\Release\TaskWorker_BLL.xml
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_BLL\obj\Release\TaskWorker_BLL.Resources.resources
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_BLL\obj\Release\TaskWorker_BLL.vbproj.GenerateResource.Cache
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_BLL\obj\Release\TaskWorker_BLL.dll
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_BLL\obj\Release\TaskWorker_BLL.xml
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_BLL\obj\Release\TaskWorker_BLL.pdb

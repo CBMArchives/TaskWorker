@@ -1,0 +1,9 @@
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestConsole\bin\x64\Debug\actionXML.xml
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestConsole\bin\x64\Debug\TaskWorker_TestConsole.exe
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestConsole\bin\x64\Debug\TaskWorker_TestConsole.pdb
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestConsole\bin\x64\Debug\TaskWorker_BLL.dll
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestConsole\bin\x64\Debug\TaskWorker_BLL.pdb
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestConsole\bin\x64\Debug\TaskWorker_BLL.xml
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestConsole\obj\x64\Debug\TaskWorker_TestConsole.csprojResolveAssemblyReference.cache
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestConsole\obj\x64\Debug\TaskWorker_TestConsole.exe
+L:\Development\CBMTFS\CBMDev\products\TaskWorker\Trunk\TaskWorker_TestConsole\obj\x64\Debug\TaskWorker_TestConsole.pdb
